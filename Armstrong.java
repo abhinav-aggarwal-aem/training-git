@@ -5,7 +5,7 @@ public class Armstrong {
         int sum=0,rem,temp;
      Scanner src =new Scanner(System.in);
 
-
+// this is logic program
         System.out.println("Enter Number :");
         int num =src.nextInt();
 
